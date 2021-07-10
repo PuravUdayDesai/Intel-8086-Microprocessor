@@ -1,1 +1,1 @@
-# 8086-Intel-Microprocessor
+# Intel 8086 Microprocessor
